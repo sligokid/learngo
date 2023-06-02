@@ -25,4 +25,6 @@ func main() {
 	// I've used printf to print an empty string
 	// EXERCISE: Use Println to see what happens
 	fmt.Printf("%q\n", brand)
+	fmt.Println(brand)
+
 }

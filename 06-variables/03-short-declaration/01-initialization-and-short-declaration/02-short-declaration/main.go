@@ -31,5 +31,7 @@ func main() {
 	// so, the type of the safe variable becomes a bool
 	safe := true
 
-	fmt.Println(safe)
+	test := 5
+
+	fmt.Println(safe, test)
 }
